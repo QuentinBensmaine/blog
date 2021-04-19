@@ -1,4 +1,4 @@
-<title>Blog</title>
+***Blog***
 
 <ul>Utilisateurs : Email || Password
     <li>Normal : test@test.com || test@test</li>
